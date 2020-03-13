@@ -1,0 +1,3 @@
+x Can Call readFromFile
+x readFromFile returns Correct String
+x readFromFile throws exception when file does not exist
